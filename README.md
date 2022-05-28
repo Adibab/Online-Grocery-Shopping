@@ -1,4 +1,4 @@
-# Online-Grocery-Shopping
+# Online-Grocery-Shopping-Cart
 
 
  I have created a shopping cart where multiple products can be added  and removed. A product list has been added, with each product showing an image and a price. 
