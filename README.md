@@ -1,4 +1,5 @@
-# Online grocery store
+# Online-Grocery-Shopping
+
 
  I have created a shopping cart where multiple products can be added  and removed. A product list has been added, with each product showing an image and a price. 
 There is no limit on the total amount of products you can add, but you can only add one of each item. If you attempt to add the same product twice, an alert message will pop-up showing that the product has already been added to the cart. 
